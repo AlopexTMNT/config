@@ -1,0 +1,17 @@
+Programs I use as of writing this.
+
+File Manager; Ranger
+
+Terminal; st
+
+Window manager; dwm
+
+Text editor; Vim
+
+Music and video player; VLC
+
+Photo viewer; sxiv
+
+Photo editor; Gimp
+
+PDF viewer; Zathura
