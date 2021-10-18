@@ -17,3 +17,5 @@ Photo editor; Gimp
 PDF viewer; Zathura
 
 DWM status bar; slstatus
+
+font; ttf-font-awesome
