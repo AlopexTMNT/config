@@ -19,3 +19,5 @@ PDF viewer; Zathura
 DWM status bar; slstatus
 
 font; nerd-fonts-ubuntu-mono
+
+Web browser; Brave
