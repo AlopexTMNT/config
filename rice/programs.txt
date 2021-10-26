@@ -18,4 +18,4 @@ PDF viewer; Zathura
 
 DWM status bar; slstatus
 
-font; ttf-font-awesome
+font; nerd-fonts-ubuntu-mono
