@@ -21,3 +21,5 @@ DWM status bar; slstatus
 font; ttf-font-awesome
 
 Web browser; Brave
+
+System monitor; gotop
