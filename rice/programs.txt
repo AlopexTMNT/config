@@ -23,3 +23,5 @@ font; ttf-font-awesome
 Web browser; Brave
 
 System monitor; gotop
+
+Wallpaper; xwallpaper
