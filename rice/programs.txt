@@ -25,3 +25,5 @@ Web browser; Brave
 System monitor; gotop
 
 Wallpaper; nitrogen
+
+Unicode Support etc; rxvt-unicode
