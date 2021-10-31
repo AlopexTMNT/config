@@ -27,3 +27,5 @@ System monitor; gotop
 Wallpaper; nitrogen
 
 Unicode Support etc; rxvt-unicode
+
+Wallpapers; https://gitlab.com/dwt1/wallpapers.git / https://github.com/AlopexTMNT/wallpapers
