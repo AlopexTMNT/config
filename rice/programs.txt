@@ -8,7 +8,7 @@ Window manager; dwm
 
 Text editor; Vim
 
-Music and video player; VLC
+Music and video player; mpv
 
 Photo viewer; sxiv
 
