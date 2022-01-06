@@ -31,3 +31,4 @@ alias ytp="youtube-dl --ignore-errors --continue --no-overwrites --download-arch
 alias mc="LC_ALL=C minecraft-launcher"
 alias mwd="sudo mount /dev/sdb ~/Mounts/wdssd"
 alias uwd="sudo umount -r /dev/sdb"
+alias weather="curl wttr.in"
