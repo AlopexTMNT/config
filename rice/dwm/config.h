@@ -87,6 +87,7 @@ static Key keys[] = {
 	{ MODKEY|ShiftMask,             XK_period, tagmon,         {.i = +1 } },
 	 { MODKEY,	XK_F5, 	spawn, 	SHCMD("setxkbmap us") },
 	 { MODKEY, 	XK_F6, 	spawn, 	SHCMD("setxkbmap gr") },
+	{ MODKEY,	XK_w,	spawn,	SHCMD("brave") }, /* Change this to the browser that you have */
 	TAGKEYS(                        XK_1,                      0)
 	TAGKEYS(                        XK_2,                      1)
 	TAGKEYS(                        XK_3,                      2)
