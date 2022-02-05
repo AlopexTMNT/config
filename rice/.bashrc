@@ -24,7 +24,7 @@ HISTSIZE= HISTFILESIZE= # Infinite history.
 # Aliases
 
 alias r="ranger"
-alias ls='ls --color=auto'
+alias ls='ls -al --color=auto'
 alias yt="youtube-dl --add-metadata -i"
 alias yta="yt -x -f bestaudio[ext=m4a] --add-metadata --embed-thumbnail"
 alias ytp="youtube-dl --ignore-errors --continue --no-overwrites --download-archive bestaudio[ext=m4a] progress.txt"
