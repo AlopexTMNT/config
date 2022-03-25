@@ -1,0 +1,4 @@
+set nu
+
+
+colorscheme elflord
