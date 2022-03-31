@@ -1,6 +1,6 @@
 Programs I use as of writing this.
 
-File Manager; Ranger
+File Manager; lf
 
 Terminal; st
 
