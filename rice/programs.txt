@@ -33,3 +33,5 @@ Wallpapers; https://gitlab.com/dwt1/wallpapers.git / https://github.com/AlopexTM
 Network-Manager dmenu; networkmanager-dmenu-git
 
 Latex; texlive-most texlive-lang
+
+Other; unclutter
