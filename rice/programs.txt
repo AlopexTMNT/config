@@ -20,7 +20,7 @@ DWM status bar; slstatus
 
 font; ttf-font-awesome
 
-Web browser; Brave
+Web browser; librewolf-bin
 
 System monitor; htop
 
