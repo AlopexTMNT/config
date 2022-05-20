@@ -20,7 +20,7 @@ DWM status bar; slstatus
 
 font; ttf-font-awesome
 
-Web browser; librewolf-bin
+Web browser; chromium
 
 System monitor; htop
 
@@ -36,4 +36,4 @@ Latex; texlive-most texlive-lang
 
 aur helper; https://aur.archlinux.org/yay-bin.git
 
-Other; unclutter
+Other; unclutter xf86-video-intel
