@@ -20,7 +20,7 @@ DWM status bar; slstatus
 
 font; ttf-font-awesome
 
-Web browser; chromium
+Web browser; firefox
 
 System monitor; htop
 
