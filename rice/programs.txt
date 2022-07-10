@@ -36,4 +36,4 @@ Latex; texlive-most texlive-lang
 
 aur helper; https://aur.archlinux.org/yay-bin.git
 
-Other; unclutter xf86-video-intel
+Other; unclutter xf86-video-intel xclip
