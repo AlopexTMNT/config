@@ -3,7 +3,7 @@
 GRUB_DEFAULT=0
 GRUB_TIMEOUT=5
 GRUB_DISTRIBUTOR="Arch"
-GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3 intel_idle.max_cstate=1 usbcore.autosuspend=-1"
+GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3 intel_idle.max_cstate=1 usbcore.autosuspend=-1 fwlps=0"
 GRUB_CMDLINE_LINUX="resume=UUID=<UUID> resume_offset=114683904"
 
 # Preload both GPT and MBR modules so that they are not missed
