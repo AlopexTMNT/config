@@ -36,4 +36,6 @@ Latex; texlive-most texlive-lang
 
 aur helper; https://aur.archlinux.org/yay-bin.git
 
-Other; unclutter xf86-video-intel xclip
+Other; unclutter xf86-video-intel xclip cockpit cockpit-pcp firewalld udisks2
+
+Cockpit requires this command; sudo systemctl enable --now cockpit.socket
