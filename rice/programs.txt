@@ -34,6 +34,6 @@ Network-Manager dmenu; networkmanager-dmenu-git
 
 Latex; texlive-most texlive-lang
 
-aur helper; https://aur.archlinux.org/yay-bin.git
+aur helper; https://aur.archlinux.org/yay.git
 
 Other; unclutter xf86-video-intel xclip
