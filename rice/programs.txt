@@ -6,15 +6,15 @@ Terminal; https://github.com/AlopexTMNT/st
 
 Window manager; dwm
 
-Text editor; Vim
+Text editor; vim
 
 Music and video player; mpv
 
 Photo viewer; sxiv
 
-Photo editor; Gimp
+Photo editor; gimp
 
-PDF viewer; Zathura
+PDF viewer; zathura
 
 DWM status bar; slstatus
 
