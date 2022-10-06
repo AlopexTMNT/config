@@ -72,7 +72,7 @@ static const char unknown_str[] = "n/a";
 static const struct arg args[] = {
 		/* function format          argument */
 { netspeed_rx, "[ %s", "wlp2s0" },
-	{ netspeed_tx, " %s]", "wlp2s0" },
+	{ netspeed_tx, "  %s]", "wlp2s0" },
 	        { wifi_essid, "[%s ", "wlp2s0" },
 		    { wifi_perc, " %3s%%]", "wlp2s0" },
 			    { cpu_perc, "[CPU  %3s%%]", NULL    },    
