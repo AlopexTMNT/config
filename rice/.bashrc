@@ -27,7 +27,6 @@ alias r='ranger'
 alias ls='ls -al --color=auto'
 alias yt="youtube-dl --add-metadata -i -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best'"
 alias yta="yt -x -f bestaudio[ext=m4a] --add-metadata --embed-thumbnail"
-alias ytp="youtube-dl --ignore-errors --continue --no-overwrites --download-archive bestaudio[ext=m4a] progress.txt"
 alias mc="LC_ALL=C minecraft-launcher"
 alias mwd="sudo mount /dev/sdb ~/Mounts/wdssd"
 alias uwd="sudo umount -r /dev/sdb"
