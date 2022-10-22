@@ -9,4 +9,6 @@ slstatus 2>&1 >/dev/null &
 
 nitrogen --restore &
 
+unclutter &
+
 exec dwm
