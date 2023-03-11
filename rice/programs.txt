@@ -22,6 +22,8 @@ font; ttf-font-awesome
 
 Web browser; firefox
 
+Mail Client; thunderbird
+
 System monitor; htop
 
 Wallpaper; nitrogen
