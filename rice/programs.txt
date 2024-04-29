@@ -39,3 +39,5 @@ Latex; texlive-most texlive-lang
 aur helper; https://aur.archlinux.org/yay.git
 
 Other; unclutter xf86-video-intel xclip man-db nload
+
+Dual Screens; https://aur.archlinux.org/mons.git
