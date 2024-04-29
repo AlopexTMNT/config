@@ -11,4 +11,6 @@ nitrogen --restore &
 
 unclutter &
 
+mons -a &
+
 exec dwm
