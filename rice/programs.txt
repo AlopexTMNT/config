@@ -6,7 +6,7 @@ Terminal; https://github.com/AlopexTMNT/st
 
 Window manager; dwm
 
-Text editor; vim
+Text editor; neovim
 
 Music and video player; mpv
 
