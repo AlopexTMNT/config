@@ -13,4 +13,6 @@ unclutter &
 
 mons -a &
 
+xautolock -time 10 -locker slock&
+
 exec dwm
