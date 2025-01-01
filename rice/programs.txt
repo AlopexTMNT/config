@@ -28,6 +28,10 @@ System monitor; htop
 
 Wallpaper; nitrogen
 
+Excel like; sc-im
+
+Presentations; sent https://git.suckless.org/sent
+
 Unicode Support etc; rxvt-unicode
 
 Wallpapers; https://gitlab.com/dwt1/wallpapers.git / https://github.com/AlopexTMNT/wallpapers
