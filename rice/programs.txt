@@ -34,6 +34,8 @@ Presentations; sent https://git.suckless.org/sent
 
 Unicode Support etc; rxvt-unicode
 
+Safety; xautolock slock https://git.suckless.org/slock
+
 Wallpapers; https://gitlab.com/dwt1/wallpapers.git / https://github.com/AlopexTMNT/wallpapers
 
 Network-Manager dmenu; networkmanager-dmenu-git
